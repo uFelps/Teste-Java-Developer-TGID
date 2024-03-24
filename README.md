@@ -39,7 +39,7 @@ Após cada transação, o sistema envia um e-mail para o remetente e o destinat�
 1 | Clone este repositório.
 
 ```
-https://github.com/uFelps/
+https://github.com/uFelps/Teste-Java-Developer-TGID
 ```
 
 2 | Abra o projeto no InteliJ ou STS e rode o projeto
