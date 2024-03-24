@@ -1,0 +1,3 @@
+INSERT INTO users (nome, documento, email, senha, saldo, user_role) VALUES ('Amazon', '91.221.245/0294-21', 'amazon@gmail.com', 'amazon123', 6000.0, 'EMPRESA');
+INSERT INTO users (nome, documento, email, senha, saldo, user_role) VALUES ('John Paul', '511.433.036-37', 'john@gmail.com', 'john123', 1000, 'CLIENTE');
+INSERT INTO users (nome, documento, email, senha, saldo, user_role) VALUES ('Chad Smith', '523.393.189-00', 'chad@gmail.com', 'chad123', 1000, 'CLIENTE');
